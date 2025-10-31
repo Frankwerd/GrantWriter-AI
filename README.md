@@ -1,6 +1,6 @@
 # GrantWriter AI Frount End
 
-**NOTICE: This project is a work-in-progress and is not yet complete. The code is provided as-is for demonstration and portfolio purposes.**
+**NOTICE: This project is a work-in-progress and is not yet complete. The code is provided as-is for demonstration and portfolio purposes. Formually known as FundingFlock.AI**
 
 ## 📖 About the Project
 
